@@ -8,7 +8,8 @@ const App = () => {
     <div className="App">
       <div className="gradient__bg">
         <Navbar />
-        <Header />/
+        <Header />
+        text
       </div>
       <Features />
       <Blog />
