@@ -7,12 +7,9 @@ const App = () => {
   return (
     <div className="App">
       <div className="gradient__bg">
-        <Navbar />
-<<<<<<< Updated upstream
+        <Navbar /> 
+        <Header />  
         <Header /> 
-=======
-        <Header />
->>>>>>> Stashed changes
       </div>
       newwww
       <Features />
